@@ -1,6 +1,6 @@
 spring:
   application:
-    name: websocket-server
+    name: websocket
   output:
     ansi:
       enabled: always
