@@ -31,5 +31,4 @@ public class ChatMessageService {
 				.orElse(new ArrayList<>());
 		return chatId;
 	}
-	
 }

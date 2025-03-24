@@ -46,8 +46,4 @@ public class ChatController {
 			) {
 		return ResponseEntity.status(HttpStatus.OK).body(service.findChatMessages(senderId, recipientId));
 	}
-	
-	
-	
-	
 }
